@@ -1,4 +1,4 @@
-Traducción al español latino para el juego Racing Lagoon
+**Traducción al español latino para el juego Racing Lagoon**
 
 La traducción abarca el juego al completo utilizando de base el parche de traducción inglesa, por lo cual los textos de interfaces graficas estarán al ingles, pero fuera de eso todo lo demás esta al español de latam(la traducción no contiene modismos)
 
