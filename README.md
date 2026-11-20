@@ -9,8 +9,9 @@ Este es el primer entregable, por lo cual quiero realizar otra revisión para pu
 El parche se aplica sobre el ID japones SCPS-45404
 
 **CREDITOS Y LICENCIAS**
-    xdelta3 3.2.2
-    Motor que usa APLICAR_PARCHE_ES.bat para reconstruir el BIN.
+
+  xdelta3 3.2.2
+  Motor que usa APLICAR_PARCHE_ES.bat para reconstruir el BIN.
 
   Traduccion inglesa v1.1 (base de este parche): Hilltop y su equipo
 
